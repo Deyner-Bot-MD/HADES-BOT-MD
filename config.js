@@ -3,16 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
-global.owner = [
-  ['5212411347465', 'HADES_BOT', true],
-  ['5212412737467'],
-  ['5212411719888'],
-  ['5212411453522'],
-]
+global.owner = ['523532470551'],
+ ['51934299838'],
+ ['17828237137'],
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['5212411347465'], 
+global.prems = ['523532470551'], 
 
 global.APIs = { // API Prefix.
   
@@ -71,7 +68,7 @@ global.APIKeys = { // APIKey Here
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = 'HADES_BOT'
-global.author = 'YOVANI'
+global.author = 'Deyner'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -133,7 +130,7 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝐘𝐎𝐕𝐀𝐍𝐈 𝐎𝐅𝐈𝐂𝐈𝐀𝐋|𝐘𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓'
+global.wm = 'Deyner OFC|𝐘𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓'
 global.igfg = '𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
